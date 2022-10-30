@@ -1,5 +1,5 @@
 # loveeveryword_
-loeveveryword built from scratch
+loveeveryword built from scratch
 
 ## Setup the keys :
 
