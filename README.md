@@ -1,7 +1,7 @@
 # loveeveryword_
 loeveveryword built from scratch
 
-##Setup the keys :
+## Setup the keys :
 
 In the "token" file
 - Bearer token on first line
