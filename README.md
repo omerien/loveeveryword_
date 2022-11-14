@@ -1,6 +1,9 @@
 # loveeveryword_
 loveeveryword built from scratch
 
+## Dependancies
+- Tweepy
+
 ## Setup the keys :
 
 In the "token" file
